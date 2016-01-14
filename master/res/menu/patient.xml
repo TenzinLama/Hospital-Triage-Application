@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.echeung.triage207.PatientActivity" >
+
+    <item
+        android:id="@+id/action_vitals"
+        android:showAsAction="never"
+        android:title="@string/action_vitals"/>
+    <item
+        android:id="@+id/action_symptoms"
+        android:showAsAction="never"
+        android:title="@string/action_symptoms"/>
+    <item
+        android:id="@+id/action_doctor"
+        android:showAsAction="never"
+        android:title="@string/action_doctor"/>
+    <item
+        android:id="@+id/action_prescription"
+        android:showAsAction="never"
+        android:title="@string/action_prescription"/>
+
+</menu>
